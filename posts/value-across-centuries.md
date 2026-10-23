@@ -2,13 +2,13 @@
 
 *The Sunday Digest — this week's theme: value across four centuries.*
 
-Every Sunday we put two things side by side that shouldn't have anything to do with each other. This week: the most famous painting in the Rijksmuseum, and a live price feed on Ethereum. One is 384 years old; the other is 384 seconds old when you read it. Both, in their own way, are instruments for asking what something is worth — and who gets to decide.
+Every Sunday we put two things side by side that shouldn't have anything to do with each other. This week: the most famous painting in the Rijksmuseum, and a live price feed on Ethereum. One is 384 years old; the other is seconds old when you read it. Both, in their own way, are instruments for asking what something is worth — and who gets to decide.
 
 ---
 
 ## The Market Corner: Chainlink (LINK)
 
-**Price: $12.51 USD** (as of 2026-10-21T14:52:33.693Z — timestamp taken directly from the price feed's `lastUpdatedAt` field, so you know exactly how fresh this is by the time you read it).
+**Price: $12.04 USD** (as of 2026-10-23T15:11:22.884Z — timestamp taken directly from the price feed's `lastUpdatedAt` field, so you know exactly how fresh this is by the time you read it).
 
 - **Token:** Chainlink (LINK)
 - **Contract:** `0x514910771AF9Ca656af840dff83E8264EcF986CA` (Ethereum mainnet)
@@ -56,8 +56,8 @@ Here is the whole thought in two lines:
 
 | | **The Night Watch (SK-C-5)** | **Chainlink (LINK)** |
 |---|---|---|
-| Value today | Enshrined, the anchor of the Rijksmuseum's Gallery of Honour | $12.51 USD |
-| Last updated | 1642 (record confirmed) | 2026-10-21T14:52:33.693Z |
+| Value today | Enshrined, the anchor of the Rijksmuseum's Gallery of Honour | $12.04 USD |
+| Last updated | 1642 (record confirmed) | 2026-10-23T15:11:22.884Z |
 | Settlement | Canonical, dispute-free | Onchain, oracle-fed |
 | Age of the asset | 384 years | Minutes since last price update |
 | Who decides worth | Four centuries of viewers | Everyone trading right now |
