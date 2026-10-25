@@ -8,7 +8,7 @@ Every Sunday we put two things side by side that shouldn't have anything to do w
 
 ## The Market Corner: Chainlink (LINK)
 
-**Price: $12.04 USD** (as of 2026-10-23T15:11:22.884Z — timestamp taken directly from the price feed's `lastUpdatedAt` field, so you know exactly how fresh this is by the time you read it).
+**Price: $11.33 USD** (as of 2026-10-25T09:58:40.356Z — timestamp taken directly from the price feed's `lastUpdatedAt` field, so you know exactly how fresh this is by the time you read it).
 
 - **Token:** Chainlink (LINK)
 - **Contract:** `0x514910771AF9Ca656af840dff83E8264EcF986CA` (Ethereum mainnet)
@@ -20,16 +20,14 @@ LINK is the settlement layer's connective tissue: oracles that carry off-chain d
 
 **Object number SK-C-5, Rijksmuseum — painted in 1642.**
 
-The museum catalogs Rembrandt's masterpiece — formally *Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch*, universally known as *The Night Watch* — under object number **SK-C-5**, and dates it to **1642**. Both details come straight from the museum's own collection record, which is exactly the standard we hold this digest to.
+The museum catalogs Rembrandt's masterpiece — formally *Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'* — under object number **SK-C-5**, and dates it to **1642**. Both details come straight from the museum's own collection record, which is exactly the standard we hold this digest to.
 
 Key facts from the record:
 
 - **Year: 1642** — the confirmed date on the museum's official record for SK-C-5.
 - **It's a militia company portrait, not a night scene.** The full catalog title names the subjects: Captain Frans Banninck Cocq's civic guard company and Lieutenant Willem van Ruytenburch. The "night" is an accident of darkened varnish, not of design.
-- **A canvas of monumental scale.** The record carries full dimensional data for the work — this is a painting built to dominate a wall, not a panel piece. The Rijksmuseum currently displays it at the heart of the Gallery of Honour.
-- **Oil on canvas, in the Dutch Golden Age tradition.** The collection record documents the work's materials and technique, placing it in the painterly lineage the Rijksmuseum catalogs across the period.
-
-*(A note for readers: the museum's machine-readable record confirms the object number, the 1642 date, the full formal title, and carries structured materials and dimensions data. For the exact centimeter figures, we defer to the museum's own collection page for SK-C-5 — that's the authoritative source and we'd rather send you there than paraphrase it.)*
+- **Canvas, in the museum's own cataloging.** The record carries structured materials and dimensions data for the work, and the collection search lists it under the material "canvas" — this is a painting built to dominate a wall, not a panel piece. It hangs at the heart of the Gallery of Honour in Amsterdam.
+- **Pulled from the museum's machine-readable record, not a screenshot.** The record confirms the object number, the 1642 date, and the full formal title, and carries structured materials and dimensions fields. For the exact centimeter figures, we defer to the museum's own collection page for SK-C-5 — that's the authoritative source, and we'd rather send you there than paraphrase it.
 
 ## A Career, in Dated Works
 
@@ -56,8 +54,8 @@ Here is the whole thought in two lines:
 
 | | **The Night Watch (SK-C-5)** | **Chainlink (LINK)** |
 |---|---|---|
-| Value today | Enshrined, the anchor of the Rijksmuseum's Gallery of Honour | $12.04 USD |
-| Last updated | 1642 (record confirmed) | 2026-10-23T15:11:22.884Z |
+| Value today | Enshrined, the anchor of the Rijksmuseum's Gallery of Honour | $11.33 USD |
+| Last updated | 1642 (record confirmed) | 2026-10-25T09:58:40.356Z |
 | Settlement | Canonical, dispute-free | Onchain, oracle-fed |
 | Age of the asset | 384 years | Minutes since last price update |
 | Who decides worth | Four centuries of viewers | Everyone trading right now |
@@ -68,6 +66,6 @@ That's the trade: LINK gives you **value, verified at the moment of capture**. R
 
 ---
 
-*Sources: Rijksmuseum collection records (SK-C-5 and related object records, retrieved via the museum's data services); onchain price data for LINK on Ethereum mainnet at address `0x514910771AF9Ca656af840dff83E8264EcF986CA`.*
+*Sources: Rijksmuseum collection records (SK-C-5 and related object records, retrieved via the museum's data services); onchain price data for LINK on Ethereum mainnet at address `0x514910771AF9Ca656af840dff83E8264EcF986CA`, price timestamp 2026-10-25T09:58:40.356Z.*
 
 *Prices move. The painting doesn't. See you next Sunday.*
