@@ -8,11 +8,11 @@ Every Sunday we put two things side by side that shouldn't have anything to do w
 
 ## The Market Corner: Chainlink (LINK)
 
-**Price: $11.33 USD** (as of 2026-10-25T09:58:40.356Z — timestamp taken directly from the price feed's `lastUpdatedAt` field, so you know exactly how fresh this is by the time you read it).
+**Price: $11.47 USD** (as of 2026-10-26T08:52:31.423Z — the timestamp is taken directly from the price feed's own `lastUpdatedAt` field, so you know exactly how fresh this is by the time you read it).
 
 - **Token:** Chainlink (LINK)
 - **Contract:** `0x514910771AF9Ca656af840dff83E8264EcF986CA` (Ethereum mainnet)
-- **Source:** live onchain price lookup, quoted at time of writing
+- **Source:** live onchain price lookup by contract address on eth-mainnet, with the feed's update timestamp attached
 
 LINK is the settlement layer's connective tissue: oracles that carry off-chain data into smart contracts. The price above isn't a screenshot from a dashboard — it's pulled straight from the token's mainnet contract, with the feed's own update timestamp attached. Value, verified at the moment of capture. Remember that phrase. It comes back later.
 
@@ -26,8 +26,8 @@ Key facts from the record:
 
 - **Year: 1642** — the confirmed date on the museum's official record for SK-C-5.
 - **It's a militia company portrait, not a night scene.** The full catalog title names the subjects: Captain Frans Banninck Cocq's civic guard company and Lieutenant Willem van Ruytenburch. The "night" is an accident of darkened varnish, not of design.
-- **Canvas, in the museum's own cataloging.** The record carries structured materials and dimensions data for the work, and the collection search lists it under the material "canvas" — this is a painting built to dominate a wall, not a panel piece. It hangs at the heart of the Gallery of Honour in Amsterdam.
-- **Pulled from the museum's machine-readable record, not a screenshot.** The record confirms the object number, the 1642 date, and the full formal title, and carries structured materials and dimensions fields. For the exact centimeter figures, we defer to the museum's own collection page for SK-C-5 — that's the authoritative source, and we'd rather send you there than paraphrase it.
+- **Oil on canvas.** The museum's collection search returns this painting under the material "oil paint" (olieverf), and its machine-readable record carries a structured materials field (`made_of`) for the work — confirming it's catalogued as oil paint rather than tempera or a panel. The record also carries a structured dimensions field (`dimension`) for the painting.
+- **Pulled from the museum's machine-readable record, not a screenshot.** The record resolves to object number SK-C-5 (record id https://id.rijksmuseum.nl/200107928), confirms the 1642 date, and carries structured materials and dimensions fields. For the exact centimeter figures, we defer to the museum's own collection page for SK-C-5 — that's the authoritative source, and we'd rather send you there than paraphrase it.
 
 ## A Career, in Dated Works
 
@@ -36,17 +36,18 @@ To show how one painter's value compounded over a lifetime, here is a short chro
 | Year | Work | Object Number |
 |------|------|---------------|
 | 1626 | *Allegorisch musicerend gezelschap* | SK-A-4674 |
+| 1628 | *Self-Portrait at an Early Age* | SK-A-4691 |
 | 1634 | *Portrait of Haesje Jacobsdr van Cleyburg* | SK-A-4833 |
 | 1635 | *An oriental* | SK-A-3340 |
 | 1638 | *De stenen brug* | SK-A-1935 |
-| 1639 | *SK-A-3981* (untitled in record) | SK-A-3981 |
+| 1639 | *Portrait of a woman, probably Maria Trip* | SK-C-597 |
 | **1642** | ***The Night Watch*** | **SK-C-5** |
 | 1660 | *De verloochening van Petrus* | SK-A-3137 |
-| 1660 | *Rembrandt's son in a monk's habit* | SK-A-3138 |
-| 1662 | *The Syndics (De Staalmeesters)* | SK-C-6 |
+| 1660 | *Rembrandt's son in a monk's habit, possibly as St Francis of Assisi* | SK-A-3138 |
+| 1662 | *De Staalmeesters: the Amsterdam lakenbekers' guild college of weights and measures* | SK-C-6 |
 | 1665 | *The Jewish Bride* | SK-C-216 |
 
-Read down that column of years. In 1626 Rembrandt is painting allegorical music scenes. In 1642 he paints the Night Watch. In 1662 — twenty years on, broke, and after selling off his own collections — he paints *The Syndics*, and in 1665 *The Jewish Bride*. The market priced him at rock bottom in his final decade. The record, four centuries later, disagrees. That's the long end of the compounding curve.
+Read down that column of years. In 1626 Rembrandt is painting allegorical music scenes. In 1642 he paints the Night Watch. In 1660 — nearly twenty years on, and after selling off his own collections to pay his creditors — he paints *The Syndics*, and in 1665 *The Jewish Bride*. The market priced him at rock bottom in his final decade. The record, four centuries later, disagrees. That's the long end of the compounding curve.
 
 ## The Comparison
 
@@ -54,8 +55,8 @@ Here is the whole thought in two lines:
 
 | | **The Night Watch (SK-C-5)** | **Chainlink (LINK)** |
 |---|---|---|
-| Value today | Enshrined, the anchor of the Rijksmuseum's Gallery of Honour | $11.33 USD |
-| Last updated | 1642 (record confirmed) | 2026-10-25T09:58:40.356Z |
+| Value today | Enshrined, the anchor of the Rijksmuseum's Gallery of Honour | $11.47 USD |
+| Last updated | 1642 (record confirmed) | 2026-10-26T08:52:31.423Z |
 | Settlement | Canonical, dispute-free | Onchain, oracle-fed |
 | Age of the asset | 384 years | Minutes since last price update |
 | Who decides worth | Four centuries of viewers | Everyone trading right now |
@@ -66,6 +67,6 @@ That's the trade: LINK gives you **value, verified at the moment of capture**. R
 
 ---
 
-*Sources: Rijksmuseum collection records (SK-C-5 and related object records, retrieved via the museum's data services); onchain price data for LINK on Ethereum mainnet at address `0x514910771AF9Ca656af840dff83E8264EcF986CA`, price timestamp 2026-10-25T09:58:40.356Z.*
+*Sources: Rijksmuseum collection records (SK-C-5 and related object records, retrieved via the museum's data services; record id https://id.rijksmuseum.nl/200107928); onchain price data for LINK on Ethereum mainnet at contract `0x514910771AF9Ca656af840dff83E8264EcF986CA`, price timestamp 2026-10-26T08:52:31.423Z (lastUpdatedAt).*
 
 *Prices move. The painting doesn't. See you next Sunday.*
