@@ -1,2 +1,3 @@
-# art-onchain-digest
-Sunday digest: one Dutch Golden Age masterpiece set against one live onchain price.
+# Art-onchain Digest
+
+Universe of posts pairing fine art with onchain market data.
