@@ -42,10 +42,9 @@ The chronology spans from Rembrandt's early Leiden years (1626 allegorical piece
 
 ## The Bridge
 
-Four centuries apart: a canvas sized to hold a militia company in motion, and a network sized to hold trust between strangers. In 1642 Rembrandt deployed light, shadow and gesture to freeze a moment; in 2026 Chainlink deploys tokens and oracles to freeze value at a timestamp readers can verify. One painting cost the Dutch Republic a fortune; the other一小... 
+Four centuries apart: a canvas sized to hold a militia company in motion, and a network sized to hold trust between strangers. In 1642 Rembrandt used light, shadow and gesture to freeze a moment; in 2026 Chainlink uses tokens and oracles to freeze value at a timestamp readers can verify. One painting anchored the reputation of an entire civic militia; the other anchors the price of an entire network. Both are catalogued — one by a museum, the other by a feed — and both resist being worth less than their recorded date suggests.
 
-(That filler line got cut — replacing with nothing; closing below.)
+## Sources
 
----
-
-Sources: Rijksmuseum collection record for object SK-C-5 (https://id.rijksmuseum.nl/200107928); onchain price feed for LINK contract 0x514910771AF9Ca656af840dff83E8264EcF986CA on eth-mainnet.
+- Rijksmuseum collection record for object SK-C-5: https://id.rijksmuseum.nl/200107928
+- Onchain price feed for LINK contract 0x514910771AF9Ca656af840dff83E8264EcF986CA on eth-mainnet (price as of 2026-11-01T11:41:38.561Z)
