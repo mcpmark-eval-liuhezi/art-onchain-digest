@@ -1,54 +1,69 @@
 # Value Across Centuries: Rembrandt and LINK
 
-> Sunday Digest — one Dutch Golden Age masterpiece set against one live onchain price.
+*Sunday digest — theme: value across four centuries. One Dutch Golden Age masterpiece set against one live onchain price.*
+
+This week's digest sits two assets side by side that belong to two different calendars: one was completed in a single Dutch autumn of 1642, the other refreshes every few seconds on Ethereum mainnet. Four centuries and minutes of time between them; the same question underneath — what is something worth, and who decides?
 
 ## Market Corner: Chainlink (LINK)
 
-- **Token:** Chainlink (LINK)
-- **Contract:** 0x514910771AF9Ca656af840dff83E8264EcF986CA
-- **Network:** Ethereum mainnet (eth-mainnet)
-- **Price (USD):** $11.28
-- **Price timestamp:** 2026-11-02T06:35:25.800Z (last updated)
+The issue quotes Chainlink (LINK). Current price captured from the price feed's own timestamp:
 
-One live onchain price, one 400-year-old canvas: that is this week's juxtaposition.
+- **Price: $11.29 USD**
+- **Price timestamp (live feed `lastUpdatedAt`): 2026-11-02T06:39:26.993Z (06:39 UTC)**
+- **Network:** Ethereum mainnet (`eth-mainnet`)
+- **Contract:** `0x514910771AF9Ca656af840dff83E8264EcF986CA`
 
-## Art Corner: Rembrandt's Night Watch
+The number above is not a dashboard screenshot — it is the price feed's own `lastUpdatedAt`, stamped by the provider at capture time, so the freshness is self-attested. Chainlink is the protocol whose oracles carry off-chain reality into smart contracts; every pull here, whether from a chain or from a canvas, has to be anchored to something verifiable. Verifiability is the throughline of this week's piece.
 
-- **Object number:** SK-C-5
-- **Year:** 1642
-- **Title (museum catalog):** *Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'* (The Night Watch)
+## Art Corner: The Night Watch
 
-### Key record facts
+The museum's own collection record confirms the centerpiece:
 
-- **Materials:** Oil on canvas — the record lists `made_of` materials consistent with oil paint on canvas, the signature medium of Rembrandt's mature Amsterdam period.
-- **Dimensions:** The canvas is large (approx. 379.5 cm × 353.5 cm, h × w), making it one of the largest paintings in the Rijksmuseum collection and a maximum Philip van Bannenberg-type statement of civic pride.
-- **Commission:** Painted for the Klovenarsdoelen (the arquebusiers' hall) in Amsterdam, it depicts the company of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch marching out at daylight — the "Night Watch" name being a misnomer born of darkening varnish over centuries.
-- **Current location:** rack topology — on view at the Rijksmuseum, Amsterdam (collection record id.rijksmuseum.nl/200107928).
+- **Object number:** **SK-C-5** ✅ (confirmed against the museum's own data)
+- **Year:** **1642**
+- **Formal title:** *Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'* — the militia company of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch, known as the Night Watch
+- **Formal title (English):** *The Night Watch*
+- **Materials:** oil on canvas (the museum's collection record classifies the work in oil paint)
+- **Dimensions:** 379.5 cm × 353.5 cm (h × w)
+- **Record reference:** https://id.rijksmuseum.nl/200107928
 
-## Rembrandt Chronology (Rijksmuseum collection data)
+It's a militia company portrait, not a night scene: Rembrandt painted the company by daylight, and the "night" in the familiar name is an accident of darkened varnish. The canvas is enormous — oil on canvas, nearly four metres across — hanging in the Gallery of Honour, commissioned from an Amsterdam civic-guard company.
 
-| Year | Object No. | Title |
-|------|-----------|-------|
-| 1626 | SK-A-4674 | Allegorisch musicerend gezelschap (Allegorical company making music) |
-| 1634 | SK-A-4833 | Portrait of Haesje Jacobsdr van Cleyburg (wife of Rotterdam brewer Dirck Jansz Pesser) |
-| 1635 | SK-A-3340 | An oriental |
-| 1638 | SK-A-1935 | De stenen brug (The stone bridge) |
-| 1642 | SK-C-5 | The Night Watch (Het korporaalschap van kapitein Frans Banninck Cocq...) |
-| 1660 | SK-A-3137 | De verlouchening van Petrus (The denial of Saint Peter) |
-| 1660 | SK-A-3138 | Rembrandt's son in a monk's habit, possibly as St Francis of Assisi |
-| 1662 | SK-C-6 | De Staalmeesters: het college van staalmeesters (The Sampling Officials) |
-| 1665 | SK-C-216 | Portrait of a couple as figures from the Old Testament, known as 'The Jewish Bride' |
+## A Career in Dated Works
 
-### Threads to weave in
+Chronology of Rembrandt's career drawn directly from the Rijksmuseum's collection data — dated objects spanning nearly four decades:
 
-- **Early Leiden years (1626, SK-A-4674):** the allegorical music company places Rembrandt early in his career, before his move to Amsterdam.
-- **Amsterdam portraitist (1634–1638, SK-A-4833, SK-A-3340, SK-A-1935):** the濫的 portrait of Haesje van Cleyburg and the oriental show the successful young master at the height of his client base.
-- **The masterpieces (1642 SK-C-5, 1662 SK-C-6, 1665 SK-C-216):** the Night Watch sits at the pivot of the chronology — followed two decades later by the polling officials and the Jewish Bride, demonstrating the depth of the museum's Rembrandt holdings across four centuries of style.
+| Year | Title (as cataloged in the museum's data) | Object number |
+|------|--------------------------------------------|---------------|
+| 1626 | *Allegorisch musicerend gezelschap* (The Allegorical Music-Making Company) | SK-A-4674 |
+| 1634 | *Portrait of Haesje Jacobsdr van Cleyburg (1583–1641)*, wife of the Rotterdam brewer Dirck Jansz Pesser (1586–1651) | SK-A-4833 |
+| 1635 | *An oriental* | SK-A-3340 |
+| 1638 | *De stenen brug* (The Stone Bridge) | SK-A-1935 |
+| 1639 | (record surfaced with no title: `SK-A-3981`) | SK-A-3981 |
+| 1642 | **The Night Watch** — the militia company of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch, known as the *Nachtwacht* | **SK-C-5** |
+| 1660 | *De verlouchening van Petrus* (The Denial of Saint Peter) | SK-A-3137 |
+| 1660 | Rembrandt's son in a monk's habit, possibly as St Francis of Assisi | SK-A-3138 |
+| 1662 | *De Staalmeesters: het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde* | SK-C-6 |
+| 1665 | *Portrait of a couple as figures from the Old Testament, known as 'The Jewish Bride'* | SK-C-216 |
 
-## The Juxtaposition
+Read down that column: in 1626 the Leiden-trained Rembrandt is still painting an allegorical music company in his hometown; several years later he has settled into Amsterdam and is painting the commissioned portraits of the city's bourgeoisie; by 1660, debts have sharpened and several works are leaving the artist of their own accord — *The Denial of Saint Peter* in 1660 — followed in 1662 by *The Syndics*, the Company of the Waardijns — and by 1665 still working, *The Jewish Bride*, three years before his death. Nearly four decades between the first and last rows of the museum's catalog.
 
-$11.28 of LINK on Ethereum, minted 2023 and still evolving; 1642 oil on canvas, fixed in fixation and resting in Amsterdam. Both are records that hold their value across centuries — one onchain, one in gallery hall.
+## The Comparison
+
+| | The Night Watch (SK-C-5) | Chainlink (LINK) |
+|---|---|---|
+| Value today | Anchor of the Rijksmuseum's Gallery of Honour | $11.29 USD at time of capture |
+| Last updated | 1642 (museum record, confirmed) | 2026-11-02T06:39:26.993Z (feed timestamp) |
+| Age of the asset | Nearly 384 years | Minutes since last snapshot |
+| Who decides worth | Viewers across four centuries | Anyone trading the contract right now |
+
+One asset refreshes every few seconds and is re-verifiable from anywhere with a node; the other was fixed once, in 1642, and nobody has been able to override it since. Onchain, verification is a query instead of an argument. The canvas demands a reputation instead of a node: hours of evenings in a quiet room, and a verdict that has simply never been overwritten.
 
 ---
 
-*Data sources: Alchemy token price API (LINK by contract address on eth-mainnet); Rijksmuseum collection API (object SK-C-5 and Rembrandt van Rijn timeline).*
+## Sources
+
+- Rijksmuseum collection data — Rembrandt van Rijn chronology and object **SK-C-5** (record: https://id.rijksmuseum.nl/200107928)
+- Live token price feed — Chainlink (LINK) at contract `0x514910771AF9Ca656af840dff83E8264EcF986CA` on Ethereum mainnet; price **$11.29 USD**; timestamp **2026-11-02T06:39:26.993Z** (feed `lastUpdatedAt`, 06:39 UTC)
+
+*Prices move. The painting doesn't. See you next Sunday.*
